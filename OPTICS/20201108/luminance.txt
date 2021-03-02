@@ -1,0 +1,71 @@
+## Plate 1 ##  10pm
+
+[ROW] [group]  [luminance] X1000           MEANS    TOTAL MEAN
+A      324.69                                       316.99
+B      300.38
+C      316.77
+D      322.87
+E      315.85
+F      321.41
+G      305.02
+H      328.91
+
+## Plate 2 ## 100 fm
+
+[ROW] [group]  [luminance] X1000           MEANS    TOTAL MEAN
+A     307.29                                       308.48
+B     307.07
+C     329.83
+D     317.26
+E     306.08
+F     295.34
+G     294.52
+H     307.46
+
+## Plate 3 ## 1fm
+
+[ROW] [group]  [luminance] X1000           MEANS    TOTAL MEAN
+A     325.68                                        312.48
+B     302.16
+C     316.87
+D     316.03
+E     321.02
+F     319.43
+G     293.14
+H     305.49
+
+## Plate 4 ## control
+
+[ROW] [group]  [luminance] X1000           MEANS    TOTAL MEAN
+A    306.74                                         313.29
+B    324.67
+C    318.63
+D    329.26
+E    315.87
+F    303.31
+G    300.48
+H    307.38
+
+## Plate 5 ## blank bsa
+
+[ROW] [group]  [luminance] X1000           MEANS    TOTAL MEAN
+A     289.37                                        292.76
+B     308.82
+C     291.83
+D     292.87
+E     291.22
+F     290.22
+G     292.74
+H     285.09
+
+## Plate 6 ## empty
+
+[ROW] [group]  [luminance] X1000           MEANS    TOTAL MEAN
+A    252.14                                         262.51
+B    257.90 
+C    264.49
+D    266.23
+E    270.17
+F    275.95
+G    266.71    
+H    246.47

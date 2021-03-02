@@ -1,0 +1,95 @@
+## Plate 1 ##  
+
+[ROW] [group]  [luminance] X1000           MEANS    TOTAL MEAN
+A      358.26
+B      352.82
+C      349.75
+D      359.58
+E      355.42
+F      322.59
+G      393.77
+H      348.12
+
+## Plate 2 ## 
+
+[ROW] [group]  [luminance] X1000           MEANS    TOTAL MEAN
+A     291.98
+B     294.70
+C     309.02
+D     300.39
+E     302.23
+F     297.36
+G     308.26
+H     306.07
+
+## Plate 3 ## 
+
+[ROW] [group]  [luminance] X1000           MEANS    TOTAL MEAN
+A     271.47
+B     284.65
+C     290.09
+D     276.28
+E     281.20
+F     280.46
+G     284.48
+H     287.22
+
+## Plate 4 ## 
+
+[ROW] [group]  [luminance] X1000           MEANS    TOTAL MEAN
+A     274.22
+B     284.62
+C     286.42
+D     291.32
+E     297.13
+F     281.33
+G     282.76
+H     295.82
+
+## Plate 5 ## 
+
+[ROW] [group]  [luminance] X1000           MEANS    TOTAL MEAN
+A     294.21
+B     286.94
+C     295.44
+D     288.20
+E     314.63
+F     304.94
+G     264.48
+H     293.88
+
+## Plate 6 ## 
+
+[ROW] [group]  [luminance] X1000           MEANS    TOTAL MEAN
+A     296.07
+B     291.2
+C     294.0
+D     300.07
+E     296.45
+F     290.67
+G     296.4
+H     293.5
+
+## Plate 7 ## 
+
+[ROW] [group]  [luminance] X1000           MEANS    TOTAL MEAN
+A     258.55
+B     280.08
+C     285.89
+D     287.11
+E     304.17
+F     307.56
+G     322.13 
+H     308.02
+
+## Plate 8 ## 
+
+[ROW] [group]  [luminance] X1000           MEANS    TOTAL MEAN
+A     279.59
+B     286.37
+C     283.71
+D     283.28
+E     273.11
+F     264.97
+G     269.11
+H     280.13
